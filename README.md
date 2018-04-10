@@ -5,6 +5,21 @@
 - plain text configuration file
 
 
+## Running from Docker
+
+1. build it:
+
+    ```bash
+    bin/build.sh
+    ```
+
+2. Run it:
+
+    ```bash
+    bin/start.sh <path to EC install>
+    ```
+
+## Installing locally
 
 **MINIMUM PRE-REQ.**
 
